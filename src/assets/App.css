@@ -1,0 +1,13 @@
+body{
+  margin: 10% !important;
+}
+
+.todo-title{
+  font-weight: bold !important;
+  /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important; */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px !important;
+  color: cornflowerblue !important;
+  letter-spacing: 5px !important;
+  margin-bottom: 20px !important;
+}
